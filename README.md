@@ -18,17 +18,17 @@ Currently, I'm enhancing my professional skills as a **Technical Counsellor**, w
 
 ### What I'm Passionate About ✨
 
-* **Designing low-power, high-performance AI hardware.**
-* **Building intelligent IoT solutions.**
-* **Exploring advanced VLSI methodologies.**
-* **Bridging software (AI/ML) with robust hardware implementations.**
+* **Innovating in low-power, high-performance embedded systems.**
+* **Developing advanced VLSI architectures for AI acceleration.**
+* **Designing intelligent IoT solutions for real-world applications.**
+* **Bridging cutting-edge AI/ML algorithms with robust hardware implementations.**
 
 ---
 
 ### Connect with Me 💬
 
-* **LinkedIn:** [Your LinkedIn Profile URL, e.g., www.linkedin.com/in/kirthana-senthil-7733b828b]
-* **Email:** [Your Email Address, e.g., kirthana1612005@gmail.com]
-* Feel free to explore my repositories below!
+* **LinkedIn:** www.linkedin.com/in/kirthana-senthil-7733b828b
+* **Email:**  kirthana1612005@gmail.com
+* Feel free to explore my repositories below! 
 
 ---
