@@ -1,34 +1,67 @@
+# Hi there 👋 I'm Kirthana!
 
-### Hi there 👋 I'm Kirthana!
+I'm an **Electronics and Communication Engineering student** at **VIT Chennai** and a **Samsung ISWDP Fellow**, passionate about building intelligent hardware at the intersection of **VLSI Design, Embedded Systems, Edge AI, and Semiconductor Technology**.
 
-I'm an **Electronics and Communication Engineering student** with a deep passion for bringing intelligent systems to life on hardware. My expertise lies at the intersection of **VLSI Design, Embedded Systems, and AI Hardware Acceleration**.
-
-Currently, I'm enhancing my professional skills as a **Technical Counsellor**, while actively **designing CNN accelerators using TFET technology** and exploring new avenues in energy-efficient computing.
-
----
-
-### My Toolkit 🛠️
-
-* **Languages:** `C Embedded` | `Python` | `Verilog HDL`
-* **Microcontrollers:** `ESP32` | `Arduino UNO` | `ARM Cortex`
-* **AI/ML Frameworks:** `TensorFlow` | `PyTorch`
-* **VLSI/EDA Tools:** `Altium Designer` | `LTspice` | `Cadence Virtuoso`
+I'm currently working on **building end-to-end VLSI solutions for AI applications**, from semiconductor devices and circuit design to AI accelerators and embedded deployment. I'm passionate about **compute-in-memory architectures, edge AI, and bridging machine learning algorithms with efficient hardware implementations.**
 
 ---
 
-### What I'm Passionate About ✨
+## 🛠️ Tech Stack
 
-* **Innovating in low-power, high-performance embedded systems.**
-* **Developing advanced VLSI architectures for AI acceleration.**
-* **Designing intelligent IoT solutions for real-world applications.**
-* **Bridging cutting-edge AI/ML algorithms with robust hardware implementations.**
+**Languages**
+- C / Embedded C
+- Python
+- Verilog HDL
+- Java
+
+**Hardware & Embedded**
+- ESP32
+- STM32
+- Arduino UNO
+- ARM Cortex-M
+- 8051
+- I²C • SPI • UART
+
+**VLSI & EDA**
+- TCAD Sentaurus
+- Cadence Virtuoso
+- KiCad
+- Altium Designer
+- LTspice
+- MATLAB
+
+**AI / ML**
+- TensorFlow
+- Keras
+- TinyML
+- XGBoost
+- SVM
+- MFCC Feature Extraction
 
 ---
 
-### Connect with Me 💬
+## 🚀 What I'm Working On
 
-* **LinkedIn:** www.linkedin.com/in/kirthana-senthil-7733b828b
-* **Email:**  kirthana1612005@gmail.com
-* Feel free to explore my repositories below! 
+- ⚡ Low-power TFET device design & characterization
+- 🧠 TinyML and Edge AI for embedded systems
+- 🤖 AI hardware acceleration
+- 📡 Intelligent IoT systems
+- 🔬 Energy-efficient VLSI architectures
 
 ---
+
+## 🌱 Interests
+
+- Semiconductor Devices
+- Digital & Mixed-Signal VLSI
+- Embedded Systems
+- AI Accelerators
+- Edge Computing
+- Hardware-Software Co-design
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/kirthana-senthil-7733b828b
+- 📧 Email: kirthana1612005@gmail.com
